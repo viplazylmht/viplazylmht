@@ -4,7 +4,7 @@ Here's my some information that can help you to know about me, let's go!
 ## Educations
 🌱 I’m currently learning Information Technology at University of Science - Viet Nam National University, Ho Chi Minh City.
 
- My major is Software Engineer now.
+ My major is Data Scientist now.
 
 ## Contact
 
