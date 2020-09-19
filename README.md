@@ -1,10 +1,27 @@
+
 # Hi there 👋
 Here's my some information that can help you to know about me, let's go!
 
 ## Educations
 🌱 I’m currently learning Information Technology at University of Science - Viet Nam National University, Ho Chi Minh City.
 
- My major is Data Scientist now.
+My major is Data Science.
+
+## Skills
+
+- Programing Languages (C/C++, Java, Kotlin, Python,...)
+- MS Offices
+- MS SQL Server
+- Git and Version Control
+- Command Line (with or without Linux/Unix system) 
+- Google Cloud Platform
+
+## Badges
+
+There are a lot of badges (with AI, Machine Learning, Deep Learning and Data Scientist) I have reached from ![image](https://www.qwiklabs.com/images/logo_blue.png =150x) that base on Google Cloud Platform. 
+
+Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71)
+
 
 ## Contact
 
@@ -29,4 +46,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
