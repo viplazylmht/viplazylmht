@@ -21,6 +21,8 @@ My major is Data Science.
 There are a lot of badges (with AI, Machine Learning, Deep Learning and Data Scientist) I have reached from ![image](https://www.qwiklabs.com/images/logo_blue.png =150x) that base on Google Cloud Platform. 
 
 Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71)
+ 
+## Programing Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplazylmht&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
