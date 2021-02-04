@@ -14,13 +14,16 @@ My major is Data Science.
 - MS SQL Server
 - Git and Version Control
 - Command Line (with or without Linux/Unix system) 
+- Scikit-learn
+- Data Visualization
 - Google Cloud Platform
+- Machine Learning Algorithms
 
 ## Badges
 
-There are a lot of badges (with AI, Machine Learning, Deep Learning and Data Scientist) I have reached from ![image](https://www.qwiklabs.com/images/logo_blue.png =150x) that base on Google Cloud Platform. 
+There are a lot of badges (with AI, Machine Learning, Deep Learning and Data Scientist) I have reached from <img src="https://www.qwiklabs.com/images/logo_blue.png" data-canonical-src="https://www.qwiklabs.com/images/logo_blue.png" width="150"/> that base on Google Cloud Platform. 
 
-Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71)
+Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71).
  
 ## Programing Languages
 
