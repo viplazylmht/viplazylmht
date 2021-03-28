@@ -2,22 +2,22 @@
 # Hi there 👋
 Here's my some information that can help you to know about me, let's go!
 
-## Educations
-🌱 I’m currently learning Information Technology at University of Science - Viet Nam National University, Ho Chi Minh City.
+## Education
+🌱 I’m currently a junior at University of Science - Viet Nam National University, Ho Chi Minh City. Faculty of Information Technology. 
 
 My major is Data Science.
 
 ## Skills
 
-- Programing Languages (C/C++, Java, Kotlin, Python,...)
-- MS Offices
+- Programing Languages (C/C++, Java, Kotlin, Python, SQL,...)
 - MS SQL Server
 - Git and Version Control
 - Command Line (with or without Linux/Unix system) 
 - Scikit-learn
-- Data Visualization
+- Data Visualization Tools
+- Machine Learning Algorithms and Tools
 - Google Cloud Platform
-- Machine Learning Algorithms
+- MS Office
 
 ## Badges
 
@@ -34,9 +34,9 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 - [Facebook](https://www.fb.com/viplazlmht)
 - Email: hvduy37@gmail.com
 
+---
 
-  
-
+[Predict Covid19](https://github.com/viplazylmht/Predict_Covid19) is one of my projects that I take part in and also with Machine Learning, Data Visualization, Data Analyst included. 
 
 <!--
 **viplazylmht/viplazylmht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
