@@ -29,6 +29,8 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplazylmht&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=viplazylmht&show_icons=true&theme=radical)
+
 ## Contact
 
 - [Facebook](https://www.fb.com/viplazlmht)
