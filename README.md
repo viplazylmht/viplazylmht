@@ -45,12 +45,26 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 - [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final)  
  Data Visualization/Data Analyst
 
+- [**Image Color Compression**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageColorCompression.ipynb) using Kmeans  
+ Image Processing
+
+- [**Image Transformation**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageTransformation.ipynb)  
+ Image Processing/Image Transformation
+
+- [**Data Preprocessing Toolkits**](https://github.com/viplazylmht/DataMiningLab01) from scratch (python)  
+ Data Processing  
+
 ---
 
 ## Contact
 
 - [Facebook](https://www.fb.com/viplazlmht)
 - Email: hvduy37@gmail.com
+
+## Website
+
+Github Page: [viplazylmht.github.io](https://viplazylmht.github.io/)
+
 
 <!--
 **viplazylmht/viplazylmht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
