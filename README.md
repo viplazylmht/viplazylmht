@@ -31,14 +31,26 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 
 ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=viplazylmht&show_icons=true&theme=radical)
 
+## Project
+
+- **Citizens problems detection**  
+ Deep Learning @ AI4VN
+
+- [**Predict Covid19**](https://github.com/viplazylmht/Predict_Covid19)  
+ Machine Learning/Data Visualization/Data Analyst
+
+- [**Plant Pathology**](https://colab.research.google.com/drive/1Ypg77-WWaohRW_mIce7q2mshGX1vBlk5)  
+ Deep Learning
+
+- [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final)  
+ Data Visualization/Data Analyst
+
+---
+
 ## Contact
 
 - [Facebook](https://www.fb.com/viplazlmht)
 - Email: hvduy37@gmail.com
-
----
-
-[Predict Covid19](https://github.com/viplazylmht/Predict_Covid19) is one of my projects that I take part in and also with Machine Learning, Data Visualization, Data Analyst included. 
 
 <!--
 **viplazylmht/viplazylmht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
