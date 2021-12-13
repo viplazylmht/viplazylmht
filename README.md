@@ -3,7 +3,7 @@
 Here's my some information that can help you to know about me, let's go!
 
 ## Education
-🌱 I’m currently a junior at University of Science - Viet Nam National University, Ho Chi Minh City. Faculty of Information Technology. 
+🌱 I’m currently a senior at University of Science - Viet Nam National University, Ho Chi Minh City. Faculty of Information Technology. 
 
 My major is Data Science.
 
@@ -16,7 +16,7 @@ My major is Data Science.
 - Scikit-learn
 - Data Visualization Tools
 - Machine Learning Algorithms and Tools
-- Google Cloud Platform
+- Basic knowledge of Google Cloud Platform
 - MS Office
 
 ## Badges
