@@ -4,6 +4,7 @@ Here's my some information that can help you to know about me, let's go!
 
 TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1090306050164523008/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1090308455509803148/HaVanDuy_DataEngineer.jpg) versions of my CV.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
 
 - 01/2022 -> present: Junior Data Engineer at [MoMo (M_service)](https://momo.vn/). From MoMo Talents Program.
