@@ -1,13 +1,13 @@
 
 # Hi there 👋
-Here's my some information that can help you to know about me, let's go!
+Here's some information that can help you to know about me, let's go!
 
-TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1090306050164523008/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1090308455509803148/HaVanDuy_DataEngineer.jpg) versions of my CV.
+TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1140830732181311488/HaVanDuy_DataEngineer_FPT.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1140830922825023599/HaVanDuy_DataEngineer_FPT.png) versions of my CV.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
 
-- 01/2022 -> present: Junior Data Engineer at [MoMo (M_service)](https://momo.vn/). From MoMo Talents Program.
+- 01/2022 -> present: Data Engineer at [MoMo (M_service)](https://momo.vn/). From MoMo Talents Program.
 
 ## Education
 - 2018 -> 05/2022: Student at [University of Science - Viet Nam National University, Ho Chi Minh City](https://hcmus.edu.vn/). [Faculty of Information Technology](https://www.fit.hcmus.edu.vn/). Data Science major in the field of Computer Science. GPA: 8.5
@@ -16,7 +16,8 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 
 ## Skills
 
-- Programing Languages (C/C++, Java, Kotlin, Python, SQL,...)
+- Agile / Scrum concept
+- Programming Languages (C/C++, Java, Kotlin, Python, SQL,...)
 - MS SQL Server / Oracle OCI / Bigquery / Vertica
 - Command Line (with or without Linux/Unix system) 
 - Git and Version Control
@@ -34,6 +35,7 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 - Scikit-learn
 - Machine Learning Algorithms
 - MS Office
+- Kubectl / Helm / Skaffold
 
 ## Tools
 
@@ -42,6 +44,8 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 - [Airflow](https://airflow.apache.org/)
 - [Datahub](https://datahubproject.io/)
 - [Oracle APEX](https://apex.oracle.com/)
+- [Trino](https://trino.io/)
+- [Apache Spark](https://spark.apache.org/)
 - Data Visualization Tools
 - Machine Learning Tools
 
@@ -58,18 +62,22 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 ### Company Projects
 
 - **Golden Record** - Process to achieve high-value Data Mart at MoMo  
- Build tools and services on top of open-source projects to control the quality, freshness, and extensional of the data model.
+ Build tools and services on top of open-source projects to control the data model's quality, freshness, and extensionality.
  Golden Record currently serves many dataflows such as events and transactions of the MoMo Super App.  
- Used: dbt, Great Expectations, Airflow, Gitlab, Kubernetes, Oracle OCI and Oracle APEX. 
+ Used: dbt, Great Expectations, Airflow, Gitlab, Kubernetes, Oracle OCI, and Oracle APEX. 
 
 - **Cost Optimization** - Reduce cost on GCP  
- Support other teams to optimize queries. Move services, ETL, and ELT to self-hosted Kubernetes. Try to shift from Bigquery to Vertica. Manage GCP resources for each team in MoMo by divide-and-conquer principle.  
- Conclusion: 40% cost saved without any stucked workload.  
+ Support other teams to optimize queries: move services, ETL, and ELT to on-premise Kubernetes. Try to shift from Bigquery to Vertica. Manage GCP resources for each team in MoMo by the divide-and-conquer principle.  
+ Conclusion: 40% cost saved without any stuck workload.  
  Fluent in: Bigquery, Vertica, Kubernetes, Oracle APEX, GCP gRPC API.
 
-- **Data Observability** - Data Governance
+- **Data Observability** - Data Governance  
  Just a project which helps end-user monitor five pillars of data: Freshness, Volume, Quality, Schema, and Lineage. This project aims to reduce the workload of the data-platform team in responsiveness to data for both info and incident.  
  Fluent in: Datahub, dbt, Great Expectations, Airflow.  
+
+- **Data Lakehouse**  
+ Collaborate with the team to build a lakehouse solution to reduce the cost of all workloads at Momo. Trino/Spark run on GKE as a query engine to process large batch data stored in GCS. Reduce up to 70% cost per workload thanks to Spot instance without any data SLA.  
+ Fluent in: Trino, Spark, GKE, GCS, Bigquery Storage, dbt, Airflow
 
 ### University projects
 
@@ -98,11 +106,11 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 
 ## Badges
 
-There are a lot of badges (with AI, Machine Learning, Deep Learning and Data Scientist) I have reached from <img src="https://www.qwiklabs.com/images/logo_blue.png" data-canonical-src="https://www.qwiklabs.com/images/logo_blue.png" width="150"/> that base on Google Cloud Platform. 
+There are a lot of badges (with AI, Machine Learning, Deep Learning, and Data Scientist) I have reached from <img src="https://www.qwiklabs.com/images/logo_blue.png" data-canonical-src="https://www.qwiklabs.com/images/logo_blue.png" width="150"/> that base on Google Cloud Platform. 
 
 Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71).
  
-## Programing Languages
+## Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplazylmht&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
