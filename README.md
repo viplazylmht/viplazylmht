@@ -2,7 +2,7 @@
 # Hi there 👋
 Here's some information that can help you to know about me, let's go!
 
-TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1141184012258398228/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1141184071515508846/HaVanDuy_DataEngineer.png) versions of my CV.
+TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1141184012258398228/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1141184823508086899/HaVanDuy_DataEngineer.png) versions of my CV.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
