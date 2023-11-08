@@ -2,7 +2,7 @@
 # Hi there 👋
 Here's some information that can help you to know about me, let's go!
 
-TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1141184012258398228/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1141184823508086899/HaVanDuy_DataEngineer.png) versions of my CV.
+TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1171809651461980260/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1171809732625973349/HaVanDuy_DataEngineer.png) versions of my CV.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
@@ -11,6 +11,11 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 
 ## Education
 - 2018 -> 05/2022: Student at [University of Science - Viet Nam National University, Ho Chi Minh City](https://hcmus.edu.vn/). [Faculty of Information Technology](https://www.fit.hcmus.edu.vn/). Data Science major in the field of Computer Science. GPA: 8.5
+
+## [Publications](https://orcid.org/0000-0003-2077-0435)
+
+- Sep 13, 2023 -> [MEP: A Comprehensive Medicines Extraction System on Prescriptions](https://doi.org/10.1007/978-3-031-41456-5_54) in ICCCI 2023: Computational Collective Intelligence.
+- Sep 21, 2022 -> [Medical Prescription Recognition Using Heuristic Clustering and Similarity Search](https://doi.org/10.1007/978-3-031-16014-1_60) in ICCCI 2022: Computational Collective Intelligence.
 
 ---
 
