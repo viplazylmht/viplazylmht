@@ -4,7 +4,7 @@ Here's some information that can help you to know about me, let's go!
 
 
 
-TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/817270986423664670/1218203376131641344/HaVanDuy_DataEngineer.pdf?ex=6606cf4d&is=65f45a4d&hm=e59fc3782bf067c54458ff806351f50adaa9adcc1e0f44990d0ed7e4c885c75a&) or [image](https://cdn.discordapp.com/attachments/817270986423664670/1218203414089957527/HaVanDuy_DataEngineer.png?ex=6606cf57&is=65f45a57&hm=4fa9788ec594b0944ea8537b8c13821044f2ed7da330ca3be838819539982e46&) versions of my CV.
+TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/master/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.statically.io/gh/viplazylmht/viplazylmht/master/HaVanDuy_DataEngineer.png) versions of my CV.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
@@ -45,6 +45,9 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 - **Generative AI**
 - MS Office
 - Kubectl / Helm / Skaffold
+- Bazel
+- Infrastructure as code (IaC) with pulumi
+- Policy as code
 
 ## Tools
 
@@ -56,6 +59,7 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 - [Trino](https://trino.io/)
 - [Apache Spark](https://spark.apache.org/)
 - [Apache Ranger](https://ranger.apache.org/)
+- [SQLGlot](https://sqlglot.com/)
 - Data Visualization Tools
 - Machine Learning Tools
 - LangChain
@@ -89,6 +93,11 @@ TLDR; Check out this [pdf](https://cdn.discordapp.com/attachments/81727098642366
 - **Data Lakehouse**  
  Collaborate with the team to build a lakehouse solution to reduce the cost of all workloads at Momo. Trino/Spark run on GKE as a query engine to process large batch data stored in GCS. Reduce up to 70% cost per workload thanks to Spot instance without any data SLA.  
  Fluent in: Trino, Spark, GKE, GCS, Bigquery Storage, dbt, Airflow, Apache Ranger, Delta Lake, Apache Iceberg
+
+- **Data Pipeline Migration**  
+ Build a transpiling tool based on top of open-source projects to help end-to-end migrate SQL from current production environment to the Lakehouse, reduce up to 90% human cost of the migration phase at Momo.  
+ Fluent in: SQLGlot, Trino/Presto, Bigquery, Airflow
+
 
 ### University projects
 
