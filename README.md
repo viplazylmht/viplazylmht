@@ -4,7 +4,7 @@ Here's some information that can help you to know about me, let's go!
 
 
 
-TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/ff14cea/HaVanDuy_DataEngineer.pdf) or [image](https://cdn.statically.io/gh/viplazylmht/viplazylmht/ff14cea/HaVanDuy_DataEngineer.png) versions of my CV.
+TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/ff14cea/HaVanDuy_DataEngineer.pdf) version of my CV.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Experience
@@ -42,7 +42,7 @@ TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/
 - Oracle APEX
 - Scikit-learn
 - Machine Learning Algorithms
-- **Generative AI**
+- **Generative AI** / **Agentic AI**
 - MS Office
 - Kubectl / Helm / Skaffold
 - Bazel
@@ -74,29 +74,34 @@ TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/
 
 ## Project
 
-### Company Projects
+### Company Projects (newest order)
 
-- **Golden Record** - Process to achieve high-value Data Mart at MoMo  
- Build tools and services on top of open-source projects to control the data model's quality, freshness, and extensionality.
- Golden Record currently serves many dataflows such as events and transactions of the MoMo Super App.  
- Used: dbt, Great Expectations, Airflow, Gitlab, Kubernetes, Oracle OCI, and Oracle APEX. 
+- **Data Agent**  
+ Developing GenAI and Agentic AI agents to help users quickly extract insights from internal data and documents. It reduce engineers' time spent on periodic data analysis by 80%, enable autonomous AI-generated insights for customer reports, and provide a chatbot for engineers and customers to easily query and extract insights about their data and documents.  
+ Fluent in: GenAI, Agentic AI, LangChain, SMTP Email, FastAPI, Chatbots
+
+- **Access Management**  
+ Develop a SOC 2-compliant platform to manage time-based privileged access to all data, sensitive data and policy tags across multiple data warehouses, data lakehouses, and services. The Access Management tool centralizes the approval process for 100% data access requests within the data platform.
+ Fluent in: SOC 2-compliant, SMTP Email, FastAPI, OpenID Connect
+
+- **Data Pipeline Migration**  
+ Build a transpiling tool based on top of open-source projects to help end-to-end migrate SQL from current production environment to the Lakehouse, reduce up to 90% human cost of the migration phase at Momo.  
+ Fluent in: SQLGlot, Trino/Presto, Bigquery, Airflow
+
+- **Data Lakehouse**  
+ Collaborate with the team to build a lakehouse solution to reduce the cost of all workloads at Momo. Trino/Spark run on GKE as a query engine to process large batch data stored in GCS. Reduce up to 70% cost per workload thanks to Spot instance without any data SLA.  
+ Fluent in: Trino, Spark, GKE, GCS, Bigquery Storage, dbt, Airflow, Apache Ranger, Delta Lake, Apache Iceberg
 
 - **Cost Optimization** - Reduce cost on GCP  
  Support other teams to optimize queries: move services, ETL, and ELT to on-premise Kubernetes. Try to shift from Bigquery to Vertica. Manage GCP resources for each team in MoMo by the divide-and-conquer principle.  
  Conclusion: 40% cost saved without any stuck workload.  
  Fluent in: Bigquery, Vertica, Kubernetes, Oracle APEX, GCP gRPC API.
 
-- **Data Observability** - Data Governance  
- Just a project which helps end-user monitor five pillars of data: Freshness, Volume, Quality, Schema, and Lineage. This project aims to reduce the workload of the data-platform team in responsiveness to data for both info and incident.  
- Fluent in: Datahub, dbt, Great Expectations, Airflow.  
+- **Golden Record** - Process to achieve high-value Data Mart at MoMo  
+ Build tools and services on top of open-source projects to control the data model's quality, freshness, and extensionality.
+ Golden Record currently serves many dataflows such as events and transactions of the MoMo Super App.  
+ Used: dbt, Great Expectations, Airflow, Gitlab, Kubernetes, Oracle OCI, and Oracle APEX. 
 
-- **Data Lakehouse**  
- Collaborate with the team to build a lakehouse solution to reduce the cost of all workloads at Momo. Trino/Spark run on GKE as a query engine to process large batch data stored in GCS. Reduce up to 70% cost per workload thanks to Spot instance without any data SLA.  
- Fluent in: Trino, Spark, GKE, GCS, Bigquery Storage, dbt, Airflow, Apache Ranger, Delta Lake, Apache Iceberg
-
-- **Data Pipeline Migration**  
- Build a transpiling tool based on top of open-source projects to help end-to-end migrate SQL from current production environment to the Lakehouse, reduce up to 90% human cost of the migration phase at Momo.  
- Fluent in: SQLGlot, Trino/Presto, Bigquery, Airflow
 
 
 ### University projects
