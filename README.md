@@ -3,7 +3,7 @@
 **Senior Data Engineer @ [MoMo](https://momo.vn/)** — Data Platform, Technology Center.
 I build the data platform behind Vietnam's leading fintech super-app: lakehouse architecture, data governance & protection, and the Agentic-AI systems that sit on top of it.
 
-📄 TL;DR — grab the [PDF version of my CV](https://cdn.statically.io/gh/viplazylmht/viplazylmht/76a6ae0/HaVanDuy_DataEngineer.pdf)
+📄 TL;DR — grab the [PDF version of my CV](https://cdn.statically.io/gh/viplazylmht/viplazylmht/d8c0ced3/HaVanDuy_DataEngineer.pdf)
 🎓 Google Cloud Certified [**Professional Data Engineer**](https://www.credly.com/badges/0d8ee49b-019f-41eb-81e8-34761de76683/public_url) · Aug 2026 – Aug 2028
 
 ---
