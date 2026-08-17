@@ -1,141 +1,128 @@
+# Hi there 👋 I'm Duy
 
-# Hi there 👋
-Here's some information that can help you to know about me, let's go!
+**Senior Data Engineer @ [MoMo](https://momo.vn/)** — Data Platform, Technology Center.
+I build the data platform behind Vietnam's leading fintech super-app: lakehouse architecture, data governance & protection, and the Agentic-AI systems that sit on top of it.
 
-
-
-TLDR; Check out this [pdf](https://cdn.statically.io/gh/viplazylmht/viplazylmht/76a6ae0/HaVanDuy_DataEngineer.pdf) version of my CV.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviplazylmht&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-## Experience
-
-- 01/2022 -> present: Data Engineer at [MoMo (M_service)](https://momo.vn/). From MoMo Talents Program.
-
-## Education
-- 2018 -> 05/2022: Student at [University of Science - Viet Nam National University, Ho Chi Minh City](https://hcmus.edu.vn/). [Faculty of Information Technology](https://www.fit.hcmus.edu.vn/). Data Science major in the field of Computer Science. GPA: 8.5
-
-## [Publications](https://orcid.org/0000-0003-2077-0435)
-
-- Sep 13, 2023 -> [MEP: A Comprehensive Medicines Extraction System on Prescriptions](https://doi.org/10.1007/978-3-031-41456-5_54) in ICCCI 2023: Computational Collective Intelligence.
-- Sep 21, 2022 -> [Medical Prescription Recognition Using Heuristic Clustering and Similarity Search](https://doi.org/10.1007/978-3-031-16014-1_60) in ICCCI 2022: Computational Collective Intelligence.
+📄 TL;DR — grab the [PDF version of my CV](https://cdn.statically.io/gh/viplazylmht/viplazylmht/76a6ae0/HaVanDuy_DataEngineer.pdf)
+🎓 Google Cloud Certified [**Professional Data Engineer**](https://www.credly.com/badges/0d8ee49b-019f-41eb-81e8-34761de76683/public_url) · Aug 2026 – Aug 2028
 
 ---
 
-## Skills
+## 💼 Experience
 
-- Agile / Scrum concept
-- Programming Languages (C/C++, Java, Kotlin, Python, SQL,...)
-- MS SQL Server / Oracle OCI / Bigquery / Vertica / Trino
-- Open Table Format (Delta Lake / Apache Iceberg)
-- Command Line (with or without Linux/Unix system) 
-- Git and Version Control
-- CI / CD
-- Shell / Linux
-- Docker
-- Kubernetes
-- ETL / ELT
-- Spark Application
-- Data modeling
-- Data Observability / Data Quality / Data Catalog / Data Security
-- Data Governance
-- Google Cloud Platform (Bigquery / PubSub / Dataproc / GKE / GCS / Cloud Functions / Resource monitoring / Looker / GCP gRPC API)
-- Oracle APEX
-- Scikit-learn
-- Machine Learning Algorithms
-- **Generative AI** / **Agentic AI**
-- MS Office
-- Kubectl / Helm / Skaffold
-- Bazel
-- Infrastructure as code (IaC) with pulumi
-- Policy as code
+**[MoMo (M_Service)](https://momo.vn/)** — Data Platform, Technology Center · Ho Chi Minh City · *Jan 2022 – Present*
 
-## Tools
+Joined through the **MoMo Talents Program** and grew through the full track: Trainee → Junior Data Engineer → Data Engineer II → **Senior Data Engineer (Apr 2026)**.
 
-- [Great Expectations](https://greatexpectations.io/)
-- [dbt](https://www.getdbt.com/)
-- [Airflow](https://airflow.apache.org/)
-- [Datahub](https://datahubproject.io/)
-- [Oracle APEX](https://apex.oracle.com/)
-- [Trino](https://trino.io/)
-- [Apache Spark](https://spark.apache.org/)
-- [Apache Ranger](https://ranger.apache.org/)
-- [SQLGlot](https://sqlglot.com/)
-- Data Visualization Tools
-- Machine Learning Tools
-- LangChain
+What I own day to day:
 
-## Contributions
+- **Lakehouse architecture & migration** — Trino + Iceberg/Delta on GCS, running on GKE.
+- **Data governance & protection** — unified catalog, credential vending, PII classification, access control.
+- **Agentic-AI platform** — the framework MoMo teams use to ship AI workflows into production.
+- **Platform cost & reliability** — query optimization, resource allocation, on-call data platform ops.
 
-- https://github.com/great-expectations/great_expectations/pull/6145
-- https://github.com/vertica/dbt-vertica/pull/32
-- https://github.com/oracle/dbt-oracle/issues/31
+## 🎓 Education
+
+**[University of Science, VNU-HCM](https://hcmus.edu.vn/)** — [Faculty of Information Technology](https://www.fit.hcmus.edu.vn/) · *Sep 2018 – May 2022*
+
+B.Sc. in Computer Science, **Data Science** major · GPA 8.5 / 10
+
+## 📜 Certifications
+
+- **Professional Data Engineer** — Google Cloud. Issued Aug 14, 2026 · valid through Aug 14, 2028. [Verify on Credly](https://www.credly.com/badges/0d8ee49b-019f-41eb-81e8-34761de76683/public_url)
+- A stack of Google Cloud badges (AI, Machine Learning, Deep Learning, Data Science) from Qwiklabs — [public profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71).
+
+## 📚 [Publications](https://orcid.org/0000-0003-2077-0435)
+
+- **[MEP: A Comprehensive Medicines Extraction System on Prescriptions](https://doi.org/10.1007/978-3-031-41456-5_54)** — ICCCI 2023, *Computational Collective Intelligence*, pp. 713–725 (Sep 13, 2023).
+- **[Medical Prescription Recognition Using Heuristic Clustering and Similarity Search](https://doi.org/10.1007/978-3-031-16014-1_60)** — ICCCI 2022, *Computational Collective Intelligence*, pp. 768–780 (Sep 21, 2022).
 
 ---
 
-## Project
+## 🚀 Projects
 
-### Company Projects (newest order)
+### Company projects (newest first)
 
-- **Data Agent**  
- Developing GenAI and Agentic AI agents to help users quickly extract insights from internal data and documents. It reduce engineers' time spent on periodic data analysis by 80%, enable autonomous AI-generated insights for customer reports, and provide a chatbot for engineers and customers to easily query and extract insights about their data and documents.  
- Fluent in: GenAI, Agentic AI, LangChain, SMTP Email, FastAPI, Chatbots
+**🛡️ Data Protection & Unified Catalog** · *2026 – Present*
+Rolled out **Apache Gravitino** as the single unified catalog governing all metadata under the lakehouse, so every engine sees one consistent, centrally-managed view.
+Researched and shipped **credential vending** to keep the platform compliant and secure: storage tokens are now auto-generated at runtime, short-lived and scoped, and every over-privileged service account was revoked from the Spark compute engines.
+Also deployed **PII auto-classification**: automated scanning and tagging of sensitive personal data across the lakehouse to enforce least-privilege access and regulatory compliance.
+*Fluent in:* Apache Gravitino, credential vending, short-term token exchange, Apache Ranger, Spark, Iceberg / Delta Lake
 
-- **Access Management**  
- Develop a SOC 2-compliant platform to manage time-based privileged access to all data, sensitive data and policy tags across multiple data warehouses, data lakehouses, and services. The Access Management tool centralizes the approval process for 100% data access requests within the data platform.
- Fluent in: SOC 2-compliant, SMTP Email, FastAPI, OpenID Connect
+**🤖 Data Agent & Agentic-AI Platform** · *2025 – Present*
+A scalable, maintainable framework that lets MoMo engineers ship new AI agents in days instead of months, with room to explore autonomous decision-making patterns in agentic design.
+It powers chatbots and AI summarization for engineers and business users querying internal data and documents, clusters customer feedback into key topics with metrics, and delivers AI-generated daily insight reports to every business unit over Google Chat.
+**Impact:** 30+ AI workflows, 100K+ total runs, 10B+ tokens processed, 3K+ weekly executions, and an 80% reduction in engineer time spent on periodic data analysis.
+*Fluent in:* GenAI, Agentic AI, LangChain, FastAPI, SMTP Email, chatbots, RAG, evaluation pipelines, Claude (Cowork, Code)
 
-- **Data Pipeline Migration**  
- Build a transpiling tool based on top of open-source projects to help end-to-end migrate SQL from current production environment to the Lakehouse, reduce up to 90% human cost of the migration phase at Momo.  
- Fluent in: SQLGlot, Trino/Presto, Bigquery, Airflow
+**⚡ Agentic AI for Growth — AI Harness (POC)** · *2026*
+Built an AI Harness on Claude Cowork + Claude Code for the Growth team's cashback campaign (*Hoàn Tiền Mua Sắm*) — agent instructions, skills, data interfaces, and evaluation criteria.
+Ran cross-team knowledge sharing and trained non-technical users on prompt design, skill authoring, and evaluating agent output.
+*Fluent in:* Claude Cowork, Claude Code, skill authoring, prompt engineering, agent evaluation, enablement & training
 
-- **Data Lakehouse**  
- Collaborate with the team to build a lakehouse solution to reduce the cost of all workloads at Momo. Trino/Spark run on GKE as a query engine to process large batch data stored in GCS. Reduce up to 70% cost per workload thanks to Spot instance without any data SLA.  
- Fluent in: Trino, Spark, GKE, GCS, Bigquery Storage, dbt, Airflow, Apache Ranger, Delta Lake, Apache Iceberg
+**🔐 Access Management** · *2024 – Present*
+A **SOC 2-compliant** platform for time-based privileged access to all data, sensitive data, and policy tags across data warehouses, lakehouses, and internal services. It centralizes the approval process for **100% of data-access requests** on the data platform, with audit logs and compliance reports, plus a Google Chat bot for instant approval and execution — rated highly by data owners, leaders, and managers.
+*Fluent in:* SOC 2 controls, FastAPI, OAuth2 / OpenID Connect, Apache Ranger, SMTP Email
 
-- **Cost Optimization** - Reduce cost on GCP  
- Support other teams to optimize queries: move services, ETL, and ELT to on-premise Kubernetes. Try to shift from Bigquery to Vertica. Manage GCP resources for each team in MoMo by the divide-and-conquer principle.  
- Conclusion: 40% cost saved without any stuck workload.  
- Fluent in: Bigquery, Vertica, Kubernetes, Oracle APEX, GCP gRPC API.
+**🔁 Data Pipeline Migration** · *2023 – Present*
+A transpiling tool built on top of open-source projects (SQLGlot) to migrate SQL end-to-end from the production warehouse into the lakehouse, translating BigQuery → Trino and Spark dialects.
+**Impact:** up to **90%** of the human cost of the migration phase removed, across hundreds of pipelines.
+*Fluent in:* SQLGlot, Trino/Presto, BigQuery, Spark, Airflow
 
-- **Golden Record** - Process to achieve high-value Data Mart at MoMo  
- Build tools and services on top of open-source projects to control the data model's quality, freshness, and extensionality.
- Golden Record currently serves many dataflows such as events and transactions of the MoMo Super App.  
- Used: dbt, Great Expectations, Airflow, Gitlab, Kubernetes, Oracle OCI, and Oracle APEX. 
+**🏞️ Data Lakehouse** · *2023 – Present*
+Collaborated on the lakehouse solution that reduced the cost of workloads at MoMo. Researched and selected the open table format (Iceberg / Delta), then designed Trino/Spark on GKE as query engines over large batch data in GCS.
+**Impact:** up to **70% lower cost per workload** thanks to spot instances, with no data SLA breaches.
+*Fluent in:* Trino, Spark, GKE, GCS, BigQuery Storage, dbt, Airflow, Apache Ranger, Delta Lake, Apache Iceberg
 
+**💰 Cost Optimization on GCP** · *2022 – 2023*
+Led query optimization with other teams, moved services and ETL/ELT pipelines to on-premise Kubernetes, ran a BigQuery → Vertica experiment, and centralized BigQuery resource allocation per team by a divide-and-conquer principle.
+**Impact:** **40%** cost saved, with zero stuck workloads.
+*Fluent in:* BigQuery, Vertica, Kubernetes, Oracle APEX, GCP gRPC API
 
+**🥇 Golden Record** — process for high-value Data Marts at MoMo
+Built tools and services on top of open-source projects to control the data model's quality, freshness, and extensibility. Golden Record serves many dataflows, including events and transactions of the MoMo Super App.
+*Fluent in:* dbt, Great Expectations, Airflow, GitLab, Kubernetes, Oracle OCI, Oracle APEX
 
 ### University projects
 
-- **Citizens problems detection**  
- Deep Learning @ AI4VN
-
-- [**Predict Covid19**](https://github.com/viplazylmht/Predict_Covid19)  
- Machine Learning/Data Visualization/Data Analyst
-
-- [**Plant Pathology**](https://colab.research.google.com/drive/1Ypg77-WWaohRW_mIce7q2mshGX1vBlk5)  
- Deep Learning
-
-- [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final)  
- Data Visualization/Data Analyst
-
-- [**Image Color Compression**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageColorCompression.ipynb) using Kmeans  
- Image Processing
-
-- [**Image Transformation**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageTransformation.ipynb)  
- Image Processing/Image Transformation
-
-- [**Data Preprocessing Toolkits**](https://github.com/viplazylmht/DataMiningLab01) from scratch (python)  
- Data Processing  
+- **Citizens Problems Detection** — Deep Learning @ AI4VN
+- [**Predict Covid19**](https://github.com/viplazylmht/Predict_Covid19) — Machine Learning / Data Visualization / Data Analysis
+- [**Plant Pathology**](https://colab.research.google.com/drive/1Ypg77-WWaohRW_mIce7q2mshGX1vBlk5) — Deep Learning
+- [**Hospital Inpatient Discharges**](https://github.com/viplazylmht/P4DS_final) — Data Visualization / Data Analysis
+- [**Image Color Compression**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageColorCompression.ipynb) using K-means — Image Processing
+- [**Image Transformation**](https://colab.research.google.com/github/viplazylmht/viplazylmht.github.io/blob/master/Projects/ImageProcessing/ImageTransformation.ipynb) — Image Processing
+- [**Data Preprocessing Toolkits**](https://github.com/viplazylmht/DataMiningLab01) from scratch (Python) — Data Processing
 
 ---
 
-## Badges
+## 🌍 Open Source Contributions
 
-There are a lot of badges (with AI, Machine Learning, Deep Learning, and Data Scientist) I have reached from <img src="https://www.qwiklabs.com/images/logo_blue.png" data-canonical-src="https://www.qwiklabs.com/images/logo_blue.png" width="150"/> that base on Google Cloud Platform. 
+- [**SQLGlot**](https://sqlglot.com/) — improvements to BigQuery ↔ other-dialect translation accuracy; the same engine powers MoMo's internal transpiler.
+- [**Great Expectations**](https://github.com/great-expectations/great_expectations/pull/6145) — added Vertica dialect support so GX can validate data quality on Vertica.
+- [**dbt-vertica**](https://github.com/vertica/dbt-vertica/pull/32)
+- [**dbt-oracle**](https://github.com/oracle/dbt-oracle/issues/31)
 
-Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/d993ef28-71fb-4d72-9480-b89600dabc71).
- 
-## Programming Languages
+---
+
+## 🧰 Skills
+
+**Languages** · Python · SQL · Java · Kotlin · C/C++ · R · Bash
+
+**Big Data & Lakehouse** · [Apache Spark](https://spark.apache.org/) · [Trino](https://trino.io/) / Presto · BigQuery · Vertica · MS SQL Server · Oracle OCI · Delta Lake · Apache Iceberg · [dbt](https://www.getdbt.com/) · [SQLGlot](https://sqlglot.com/) · ETL / ELT · Data modeling
+
+**Orchestration & Infra** · [Airflow](https://airflow.apache.org/) · Kubernetes (GKE & on-prem) · Docker · Helm · Skaffold · kubectl · Bazel · CI/CD (GitHub Actions, GitLab CI, Jenkins) · IaC with Pulumi · Policy as code · Shell / Linux · Git
+
+**Cloud** · Google Cloud (BigQuery, PubSub, Dataproc, GKE, GCS, Cloud Functions, Identity, Looker, gRPC API) · Oracle (APEX, OCI)
+
+**Data Governance & Security** · [Apache Gravitino](https://gravitino.apache.org/) (unified catalog) · credential vending · [Apache Ranger](https://ranger.apache.org/) · [DataHub](https://datahubproject.io/) · [Great Expectations](https://greatexpectations.io/) · SOC 2 controls · OAuth2 / OpenID Connect · PII auto-classification · Data observability / quality / catalog
+
+**AI / ML Engineering** · Generative AI · Agentic AI design · LangChain · Claude (Cowork, Code) · RAG · prompt engineering · evaluation pipelines · Scikit-learn · ML algorithms
+
+**Ways of working** · Agile / Scrum · technical writing & documentation · cross-team enablement · MS Office
+
+---
+
+## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplazylmht&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -143,28 +130,13 @@ Let's check out my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_pro
 
 ---
 
-## Contact
+## 📫 Contact
 
-- [Linkedin](http://linkedin.com/in/duy-ha-6b2a11218)
-- [Facebook](https://www.fb.com/viplazlmht)
-- Email: hvduy37@gmail.com
-
-## Website
-
-Github Page: [viplazylmht.github.io](https://viplazylmht.github.io/)
-
+- 🔗 [LinkedIn](http://linkedin.com/in/duy-ha-6b2a11218)
+- 🌐 [viplazylmht.github.io](https://viplazylmht.github.io/)
+- 📧 hvduy37@gmail.com
+- 👤 [Facebook](https://www.fb.com/viplazylmht)
 
 <!--
 **viplazylmht/viplazylmht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
